@@ -2,13 +2,13 @@
 
 
     var firebaseConfig = {
-    apiKey: "API KEY",
-    authDomain: "AUTH DOMAIN",
-    databaseURL: "DATABSE URL",
-    projectId: "PROJECT ID",
-    storageBucket: "BUCKET URL",
-    messagingSenderId: "SENDER ID",
-    appId: "APP ID"
+    apiKey: "AIzaSyA2ofrpwMVjiIGQ5mWuMXMWyMPESHZtyHI",
+    authDomain: "ohm-eea3e.firebaseapp.com",
+    databaseURL: "https://ohm-eea3e-default-rtdb.firebaseio.com/",
+    projectId: "ohm-eea3e",
+    storageBucket: "ohm-eea3e.appspot.com",
+    messagingSenderId: "506073761030",
+    appId: "1:506073761030:android:f210079488042da5af0a87"
   }; 
  
 ////Do Not Edit Below This
