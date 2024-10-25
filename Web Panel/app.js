@@ -2,13 +2,13 @@
 
 
     var firebaseConfig = {
-    apiKey: "AIzaSyA2ofrpwMVjiIGQ5mWuMXMWyMPESHZtyHI",
+    apiKey: "AIzaSyBcaT-YyXIn-IQCC7fBX4Imnc00h3YJ4ls",
     authDomain: "ohm-eea3e.firebaseapp.com",
-    databaseURL: "https://ohm-eea3e-default-rtdb.firebaseio.com/",
-    projectId: "ohm-eea3e",
-    storageBucket: "ohm-eea3e.appspot.com",
-    messagingSenderId: "506073761030",
-    appId: "1:506073761030:android:f210079488042da5af0a87"
+    databaseURL: "https://instaomh-default-rtdb.firebaseio.com",
+    projectId: "instaomh",
+    storageBucket: "instaomh.appspot.com",
+    messagingSenderId: "427456543633",
+    appId: "1:427456543633:android:ca13d4923756d53e483830"
   }; 
  
 ////Do Not Edit Below This
